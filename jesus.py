@@ -1,35 +1,5 @@
-# ──────────────────────────────────────────────
-# Backstory(writen at 2:27 AM with rage)
-#
-# Delinquent students, careless ad curious, begain to toy with power they barely understood
-# tables vanished, databases and tables crumbled with a single reckless command, their learning
-# dissolved into nothingness..
-#
-# Laughter echoed where structure once stood.
-#
-# But amongt this, One student did not falther.. He did not bend to the chaos. THE CHOSEN ONE
-#
-# while others broke, playing god amongst. HE SUFFERED WHERE HE SHOULDNT
-#
-# CALLED A SINNER FOR SINS HE DID NOT DO!
-#
 # He built, while otheres erased, he made something greater. Even greater than himself. SQL JESUS
-#
-# A silent guardian. SQL JESUS WILL DIE FOR YOUR SINS!
-#
-# When the delinquents struck again, SQL JESUS ANSWERED, AND HE BLOCKED THE HANDS OF THE SINNERS FROM
-# EVER REACHING THE OTHERS...l
-#
-# AND IT ECHOED THROUGH THE LAB!
-#
-# NO MORE DELETED TABLES, NO MORE LOST DATA
-#
-# SQL JESUS DESCIDES WHAT LIVES AND WHAT DIES FOR HE IS THE RULER OF THE DATABASES
-#
-# TIME WASTED : 9 Hours 32 Mins : 11.768 Sec
-#
-# MADE WITH SPITE and RAGE by Govind (mln) Menon
-# ──────────────────────────────────────────────
+
 
 """
 SQL Jesus -- MySQL proxy with dashboard.
